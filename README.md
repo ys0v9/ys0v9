@@ -15,4 +15,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys0v9&count=10&layout=compact&theme=light)](https://github.com/ys0v9)
 
-
+![](https://komarev.com/ghpvc/?username=ys0v9&color=ffcccc)
