@@ -15,4 +15,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys0v9&count=10&layout=compact&theme=light)](https://github.com/ys0v9)
 
-[![Image of my-profile-views-counter](https://github.com/ys0v9/my-profile-views-counter/blob/master/svg/372372861/badge.svg)](https://github.com/ys0v9/my-profile-views-counter/blob/master/readme/372372861/week.md)
+[![Image of my-profile-views-counter](https://github.com/ys0v9/my-profile-views-counter/blob/main/svg/372372861/badge.svg)](https://github.com/ys0v9/my-profile-views-counter/blob/main/readme/372372861/week.md)
