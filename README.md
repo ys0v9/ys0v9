@@ -15,4 +15,5 @@
 
 ![](https://komarev.com/ghpvc/?username=ys0v9&color=ffcccc)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys0v9&count=10&layout=compact&theme=light)](https://github.com/ys0v9)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys0v9&count=10&layout=compact&title_color=FF69B4&text_color=282d33&bg_color=FFFFFF&border_color=FF69B4)](https://github.com/ys0v9)
+
