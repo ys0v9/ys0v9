@@ -9,7 +9,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://ys0v9.notion.site/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://ys0v9.notion.site/"> </a>
           </div>  <br> 
-    <div style="text-align: left;">  </div> 
+    <div style="text-align: left;">  </div>  
     </div>
     <div style="text-align: left;">  -->
 
