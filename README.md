@@ -10,7 +10,7 @@
     <div style="text-align: left;"> <a href=https://ys0v9.notion.site/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://ys0v9.notion.site/"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div>  
-    </div>
+    </div> 
     <div style="text-align: left;">  -->
 
 ![](https://komarev.com/ghpvc/?username=ys0v9&color=ffcccc)
