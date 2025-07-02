@@ -10,3 +10,7 @@
 
 
 <img src="http://mazandi.herokuapp.com/api?handle=ys0v9&theme=cold"/>
+
+<a href="https://github.com/devxb/gitanimals" target="_blank">
+  <img src="https://render.gitanimals.org/farms/ys0v9" alt="GitAnimals" style="width: 35%; height: 35%;" />
+</a>
