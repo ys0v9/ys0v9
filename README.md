@@ -4,15 +4,13 @@
 
 <div style="text-align: left;">
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ys0v9&count=10&layout=compact&title_color=4a4f57&text_color=5a5f66&bg_color=f5f7f9&border_color=d0d3d6" />
+  <img src="http://mazandi.herokuapp.com/api?handle=ys0v9&theme=cold" />
 </p>
-
-
-<img src="http://mazandi.herokuapp.com/api?handle=ys0v9&theme=cold"/>
 
 <br>
 
 <a href="https://github.com/devxb/gitanimals" target="_blank">
-  <img src="https://render.gitanimals.org/farms/ys0v9" alt="GitAnimals" style="width: 35%; height: 35%;" />
+<img src="https://render.gitanimals.org/farms/ys0v9" alt="GitAnimals" style="width: 35%; height: 35%;" />
 </a>
