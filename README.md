@@ -18,3 +18,4 @@
          style="width: 400px; max-width: 90%; height: auto; border: 3px solid #7d8a96; border-radius: 20px;" />
   </a>
 </div>
+
