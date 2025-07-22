@@ -4,9 +4,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ys0v9&count=1&layout=compact&title_color=4a4f57&text_color=5a5f66&bg_color=f5f7f9&border_color=d0d3d6" />
-  <a href="https://solved.ac/profile/ys0v9">
-    <img src="http://mazandi.herokuapp.com/api?handle=ys0v9&theme=cold" />
-  </a>
+  <img src="http://mazandi.herokuapp.com/api?handle=ys0v9&theme=cold" />
+
 </p>
 
 <br>
