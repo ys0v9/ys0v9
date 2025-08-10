@@ -7,7 +7,7 @@
   <a href="https://solved.ac/profile/ys0v9"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ys0v9"/> -->
 </p>
 
-<br>
+
 
 <div align="center">
   <a href="https://github.com/devxb/gitanimals" target="_blank">
