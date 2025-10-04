@@ -32,6 +32,7 @@
 
 **Server:** 
 <img src="https://img.shields.io/badge/Spring-2c2c2c?style=flat&logo=spring&logoColor=fafafa"/>
+<img src="https://img.shields.io/badge/ ktor-fafafa?style=flat&logo=ktor&logoColor=2c2c2c"/> 
 <img src="https://img.shields.io/badge/ NestJS-fafafa?style=flat&logo=nestjs&logoColor=2c2c2c"/> 
 
 <br>
