@@ -37,7 +37,7 @@
 <br>
 
 ### 🔗 Connect
-**Email:** [`sua9097@gmail.com`](sua9097@gmail.com)
+**Email:** [`sua9097@gmail.com`](mailto:sua9097@gmail.com)
 <br>
 **Discord:** [`@yov9`](https://discord.com/users/1321377721003147345)
 <br>
