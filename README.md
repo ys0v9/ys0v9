@@ -23,3 +23,11 @@
 - **2학년 1학기 교과우수상** · 공통국어1, 디자인 일반 `2026.07`
 - **한양대학교 전국 청소년 SW·AI 경진대회 우수상** `2026.07`
 - **대구광역시 미래융합 기술 인재 경진대회 우수상** `2026.08`
+
+## Open Source Contributions
+
+- **testcontainers/testcontainers-java** · [하위 대기 전략의 타임아웃이 덮어써지는 오류 수정](https://github.com/testcontainers/testcontainers-java/pull/12101) `2026.10`
+- **nestjs/nest** · [MQTT 와일드카드의 빈 토픽 레벨 매칭 오류 수정](https://github.com/nestjs/nest/pull/18127) `2026.10`
+- **morluto/rea** · [유효한 XML 문자로 인해 리소스가 누락되는 오류 수정](https://github.com/morluto/rea/pull/4697) `2026.10`
+- **springdoc/springdoc-openapi** · [기여 가이드의 Maven 명령어 및 JDK 버전 안내 수정](https://github.com/springdoc/springdoc-openapi/pull/3376) `2026.10`
+- **toss/es-toolkit** · [reduceAsync의 명시적 null·undefined 초기값 처리 오류 수정](https://github.com/toss/es-toolkit/pull/2176) `2026.11`
